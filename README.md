@@ -1,4 +1,4 @@
 # Gicala-Cendrowska-Fujak
--Filip Fujak
+"-Filip Fujak
 -Alicja Cendrowska
--Dominika Gicala
+-Dominika Gicala"
